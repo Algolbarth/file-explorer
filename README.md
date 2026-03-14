@@ -1,6 +1,7 @@
 # 📁 File Explorer
 
-A file explorer built with Svelte, Rust and Tauri.
+A file explorer built with Svelte, Rust and Tauri. \
+Find all disks and display files and directories.
 
 ## 🕹️ Install
 
